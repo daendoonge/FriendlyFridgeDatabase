@@ -24,10 +24,6 @@ import javax.swing.LayoutStyle.ComponentPlacement;
 import java.awt.SystemColor;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.Statement;
-
 import javax.swing.SwingConstants;
 
 public class MovieMenu extends JFrame {
